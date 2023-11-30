@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daiyan52/todo-App/issues"
   },
-  "homepage": "https://github.com/daiyan52/todo-App#readme"
+  "homepage": "https://github.com/daiyan52/todo-App#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.2"
+  }
 }
